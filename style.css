@@ -1,0 +1,86 @@
+body{
+background-color: white;
+}
+h1{
+    color: white;
+background-color:cadetblue;
+ font-weight: bold;
+ border-style: outset;
+ border-width: 8PX;
+ border-color: #5F9EA0;
+}
+p{
+    background-color: grey;
+    color: black;
+    border-style: outset;
+    border-width: 7PX;
+    border-color: black;
+}
+
+body{
+    background-image: url();
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center;
+ background-size:  cover;
+
+ }
+ .CAPS{
+ border-style: outset;
+ border-width: 8PX;
+border-color: #F57F17;
+    background-color: #ffb84d;
+    text-transform:capitalize;
+    font-family: sans-serif;
+font-size: 19PX; 
+}
+ a:link{
+    color: aqua;
+  
+a:visited{
+    color: grey;
+}
+a :hover{
+    color: greenyellow;
+}
+ }
+.CAPS1{
+   background-color: #ffb84d;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size:  19PX;
+}
+.NTFILE1{
+    text-transform: capitalize;
+    background-color: #ffb84d;
+    font-family: sans-serif;
+    font-size:  19PX;
+}
+.ntfile2{
+   background-color: tomato;
+    color: black;   
+     font-family: sans-serif;
+    font-size:  19PX;
+    text-transform: capitalize;
+}
+h2{
+    background-color: #9FF3C2;
+     font-weight: bold;
+ border-style: outset;
+ border-width: 8PX;
+ border-color: #5F9EA0;
+}
+
+
+.GEOFILE1{
+   font-family: sans-serif;
+    font-size:  19PX;
+    text-transform: capitalize;
+    background-color: #ffb84d;
+}
+.COMBIFILE1{
+    font-family: sans-serif;
+    font-size:  19PX;
+    text-transform: capitalize;
+    background-color: #ffb84d
+}
